@@ -96,12 +96,13 @@ def calculator(request):
 
 ```
 # SERVER SIDE PROCESSING:
-![alt text](<Screenshot 30-09-2025 18_48_09.png>)
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/9a0bf7c6-1ab4-4130-a2da-3d14753b9fa5" />
+
 
 # HOMEPAGE:
-![alt text](<127.0.0.1_8000 - Personal - Microsoft​ Edge 30-09-2025 18_46_11.png>) 
-![alt text](<127.0.0.1_8000 - Personal - Microsoft​ Edge 30-09-2025 18_46_16.png>) 
-![alt text](<127.0.0.1_8000 - Personal - Microsoft​ Edge 30-09-2025 18_45_59.png>)
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/7fc52ae4-ed3b-4ccb-9bc3-dc67eaeb2a26" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/70e61e8c-15ff-4d60-b1f9-716df7ae9e8c" />
+
 
 
 # RESULT:
